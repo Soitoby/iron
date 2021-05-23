@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-image: url(fon..jpg);
+    background-size: cover;
+}
+
+img {
+    height:300px;
+     width:200px;
+    border: 2px solid blue ;
+}
+
+p {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
